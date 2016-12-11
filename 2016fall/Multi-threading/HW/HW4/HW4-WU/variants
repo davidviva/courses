@@ -1,0 +1,33 @@
+// Author: Yan Wu
+
+Cook.java
+	variants: at most one order processing; 
+	precondition: orders(list of food)
+	postcondition: orders of cooked food
+	exception: InterruptedException
+
+Customer.java
+	variants: time of eating is given;
+	precondition: name, time of eating, num
+	postcondition: 
+	exception: InterruptedException
+
+Machine.java
+	variants: the processing number of food is no more than its capacity;
+		  the food type is given; 
+		  the processing time is given;
+	precondition: food requirement
+	postcondition: cooked food
+	exception: Node 
+
+Simulation.java
+	variants: the number of current customers is no more than the capacity
+	precondition: number of customer, cooks, tables, the machine capacity, if 				orders are randomed
+	postcondition: simulation logs
+	exception: InterruptedException
+
+Validate.java:
+	variants: starts from SimulationStarting, ends with SimulationEnded
+	precondition: list of simulation events
+	postcondition: if the sequence of events are valid (true or false)s
+	exception: InvalidSimulationException

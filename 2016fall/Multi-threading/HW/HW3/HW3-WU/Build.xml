@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="run" name ="HW3-WU">
+	<target name = "run" depends="compile">
+		<java classname="Simulation">
+			<classpath path="bin"/>
+		</java>
+	</target>
+	<target name = "compile">
+		<javac srcdir="./src" destdir="bin"/>
+	</target>
+</project>
