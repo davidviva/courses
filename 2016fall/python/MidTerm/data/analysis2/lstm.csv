@@ -1,0 +1,5 @@
+tag,userId,userName,Link,Reputation
+lstm,3340234,Leb_Broth,http://stackoverflow.com/users/3340234/leb-broth,473
+lstm,3552975,lerner adams,http://stackoverflow.com/users/3552975/lerner-adams,312
+lstm,2805751,user2805751,http://stackoverflow.com/users/2805751/user2805751,166
+lstm,2757239,verbamour,http://stackoverflow.com/users/2757239/verbamour,135

@@ -1,0 +1,501 @@
+Question_Id,Question_title,tags,Number of Answers
+40348173,Can I calculate element-wise (dot) product using an np.matrix?,"['python', 'arrays', 'numpy', 'matrix', 'dot-product']",2
+40348685,Issue replacing values in numpy array,"['python', 'numpy']",1
+40348269,numpy delete list element from list of lists,"['python', 'arrays', 'list', 'python-3.x', 'numpy']",3
+40339510,Tensorarray initialization,"['python', 'arrays', 'numpy', 'tensorflow']",1
+30679339,Python OpenCV Error: Assertion failed (scn == 3 || scn == 4),"['python', 'opencv', 'numpy', 'object-detection']",2
+40334424,Determine if legacy VTK file is valid using Python,"['python', 'numpy', 'vtk']",1
+35203186,NumPy docstring for function type and None type,"['python', 'numpy', 'pycharm', 'docstring']",1
+40348658,IndexError: too many indices for array - Total Energy Matrix Variational Method,"['python', 'arrays', 'numpy', 'multidimensional-array', 'physics']",2
+40346697,Performance characteristics of theano.shared variables vs numpy.ndarray (GPU),"['python', 'numpy', 'deep-learning', 'theano-cuda']",0
+40341769,np.choose not giving desired result after broadcasting,"['python', 'numpy', 'numpy-broadcasting']",2
+40334228,How to use flag with scipy.optimize fsolve,"['python', 'numpy', 'scipy']",1
+40345334,Linear algebra in Numpy,"['python', 'pandas', 'numpy']",2
+40345461,Multiple indices for numpy array: IndexError: failed to coerce slice entry of type numpy.ndarray to integer,"['python', 'numpy', 'matrix-indexing', 'numpy-broadcasting']",1
+40209612,Creating a |N| x |M| matrix from a hash-table,"['python', 'csv', 'numpy', 'matrix', 'hash']",2
+40343633,How to use matplotlib to plot a function graph if I have 2 prepared np.arrays of points?,"['python', 'numpy', 'matplotlib']",2
+40344951,Sort Numpy Array in Python,"['python', 'arrays', 'sorting', 'numpy']",2
+40344324,numpy transformation 2d to 3d,"['python', 'arrays', 'numpy']",0
+40209520,"daily data, resample every 3 days, calculate over trailing 5 days efficiently","['python', 'pandas', 'numpy']",6
+40309448,Piecewise Affine Transform+warp output looks strange,"['python', 'python-2.7', 'numpy', 'affinetransform', 'skimage']",0
+40341783,Finding the largest N integrals in a time series with Python,"['python', 'pandas', 'numpy', 'time-series']",1
+40342767,Fitting GridSearchCV returns Unknown Label type,"['python', 'numpy', 'scikit-learn']",0
+40342098,How to convert Python OpenCV Image Matrix into a List of 4x4 blocks,"['python', 'arrays', 'numpy']",2
+40338152,numpy: detect consecutive 1 in an array,"['python', 'arrays', 'numpy']",4
+40337135,Python : could not convert string to float error,"['python', 'string', 'numpy']",2
+40331320,Sending numpy arrays via Socket,"['python', 'arrays', 'sockets', 'numpy', 'pickle']",2
+40334179,Phase portrait of a nonlinear system numpy,"['python', 'numpy', 'scipy']",1
+39121834,"Ball tracker using OpenCV, Python and Raspberry Pi 3 w/ camera module","['python', 'c++', 'opencv', 'numpy', 'computer-vision']",1
+40338386,Calculating a 3D gradient with unevenly spaced points,"['python', 'numpy', 'scipy', 'numerical-methods', 'derivative']",2
+40338597,Python: Syntax appears to be exponentiating an array? Help me interpret?,"['python', 'arrays', 'numpy', 'exponentiation']",3
+40338639,Returned result is false with numpy conditions,"['python', 'numpy']",4
+40306828,Make a total vector for three vectors in python,"['python', 'numpy']",1
+40336100,different size of element in numpy array and list,"['python', 'arrays', 'list', 'numpy']",1
+40337393,Python: Printing Pandas dataframe returns numpy.ndarray Attribute error,"['python', 'pandas', 'numpy', 'dataframe']",2
+40336748,Pythonic way to draw a bounded rectangle,"['python', 'arrays', 'numpy', 'matplotlib']",1
+40276388,vectorization of an integral in scipy,"['python', 'numpy', 'scipy', 'vectorization', 'integral']",0
+14262654,Numpy: Get random set of rows from 2D array,"['python', 'numpy']",3
+40335338,Finding a minimum value in each column of 8*720 array?,"['python', 'python-2.7', 'sorting', 'numpy']",2
+40335161,How to fill numpy array of zeros with ones given indices/coordinates,"['python', 'numpy', 'scipy']",1
+40334653,Module has no Attribute &quot;Arrange&quot;,"['python', 'numpy']",1
+40333580,Parallelization in Python using Numpy and Joblib,"['python', 'matlab', 'numpy', 'parallel-processing', 'joblib']",0
+40185248,Velocity from array of acceleration samples in Python,"['python', 'numpy', 'matplotlib', 'scipy']",3
+40332794,Python Numpy can&#39;t convert Strings to Integers from CSV file,"['python', 'csv', 'numpy']",2
+40313369,How do I use the avx flag when compiling Fortran code using f2py?,"['python', 'numpy', 'scipy', 'fortran', 'f2py']",1
+40328555,OWNDATA flag unreliable in both directions for numpy arrays?,"['python', 'variables', 'numpy', 'memory']",1
+25490641,check how many elements are equal in two numpy arrays python,"['python', 'arrays', 'numpy']",2
+40329970,Misclassification error in perceptron,"['python', 'numpy', 'machine-learning', 'classification', 'perceptron']",1
+40327327,Batch glimpse sensor with numpy,"['python', 'numpy', 'deep-learning']",1
+40324664,SyntaxError: keyword can&#39;t be an expression with np.zeroes,"['python', 'python-2.7', 'numpy', 'whitelist']",1
+22229012,Allocate intermediate multidimensional arrays in Cython without acquiring the GIL,"['python', 'numpy', 'parallel-processing', 'cython', 'thread-local-storage']",2
+40330662,Vstack over an empty array,"['python', 'arrays', 'performance', 'numpy']",0
+40329732,How to append element to each vector in a matrix - Python,"['python', 'numpy', 'matrix']",1
+40331196,Memory usage doubled when passing matrix to shared object,"['python', 'numpy', 'shared-objects', 'f2py']",0
+40307148,"After installing anaconda, python gives error &quot;no module named numpy&quot;","['python', 'numpy', 'package', 'pip', 'anaconda']",1
+40329277,Can we crop the input activations to match the dimensions of output as mentioned in the ResNet Paper,"['python', 'numpy', 'tensorflow', 'torch', 'resnet']",0
+40302193,SciPy Optimization algorithm,"['python', 'algorithm', 'numpy', 'optimization', 'scipy']",1
+40318041,Compare elements in a numpy array 3 rows a time,"['python', 'arrays', 'numpy', 'compare']",1
+40328751,Parse large dataset for regression using tensorflow,"['python', 'numpy', 'tensorflow']",0
+40327922,Speeding up sliding windowed average calculations,"['python', 'arrays', 'performance', 'numpy', 'vectorization']",1
+40327963,How to fill missing Timestamp values in padas data frame,"['python', 'pandas', 'numpy']",0
+40328498,Numpy speed up nested loop with fancy indexing,"['python', 'arrays', 'algorithm', 'numpy']",0
+28013200,reading middlebury &#39;flow&#39; files with python (bytes array &amp; numpy),"['python', 'c++', 'image', 'numpy', 'file-format']",1
+40328107,Store the result of a function with loop in a variable,"['python', 'numpy']",1
+40327136,Still can&#39;t import after install numpy in TensorFlow tutorial,"['python', 'numpy', 'tensorflow']",1
+40328042,python: If loop returns wrong result,"['python', 'numpy', 'if-statement']",1
+40223563,Error while importing Tensorflow,"['python', 'numpy', 'tensorflow', 'python-import']",3
+40324398,Pass numpy complex to float2 CUDA C via cython,"['python', 'c', 'numpy', 'cuda']",0
+40325747,Contour plot averaging inside bins,"['python', 'arrays', 'numpy']",0
+40323596,Standard deviation of combinations of dices,"['python', 'algorithm', 'numpy', 'stdev']",2
+40324966,Tensorflow Numpy do not run with Python2.7 and 3.5 both on ipython notebook,"['python', 'numpy', 'tensorflow', 'ipython-notebook', 'jupyter-notebook']",0
+40324538,Numpy array of numpy arrays has 1D shape,"['python', 'arrays', 'numpy']",1
+34142485,Difference between numpy dot() and Python 3.5+ matrix multiplication @,"['python', 'numpy', 'matrix-multiplication', 'python-3.5']",1
+40322109,Multiply all values of multiple tuples within a list (python),"['python', 'list', 'numpy', 'multiplication']",1
+30404756,How to pass OpenCV image to Tesseract in python?,"['python', 'opencv', 'numpy', 'tesseract']",1
+40321717,python: count events by certain id,"['python', 'arrays', 'numpy']",1
+40321146,"I can&#39;t open my Excel file on python, using pandas","['python', 'excel', 'pandas', 'numpy', 'import']",1
+40319433,Numpy: find the euclidean distance between two 3-D arrays,"['python', 'numpy', 'matrix', 'vectorization', 'euclidean-distance']",2
+40317989,out of memory while trying to read csv file into python,"['python', 'matlab', 'csv', 'numpy', 'out-of-memory']",2
+8827338,Distance calculation on matrix using numpy,"['python', 'numpy', 'k-means']",2
+1829340,pythonic way to aggregate arrays (numpy or not),"['python', 'arrays', 'numpy', 'aggregate']",6
+40318942,MPI Collective Reduce and Allreduce with MPI.MINLOC in mpi4py not working,"['python', 'numpy', 'mpi', 'mpi4py']",1
+40318121,Visualising 10 dimensional data with matplotlib,"['python', 'numpy', 'matplotlib', 'data-science']",1
+27115917,Gauss(-Legendre) quadrature in python,"['python', 'numpy', 'integration', 'gaussian']",3
+40290113,n tuples(or array) and specifying the value for each entry in the n tuple via Python,"['python', 'numpy']",3
+40318013,numpy.mean on varying row size,"['python', 'numpy', 'mean']",1
+40317326,"Given a list of arrays or 3 dimensional array, how do you find the maximum value?","['python', 'arrays', 'list', 'python-2.7', 'numpy']",1
+40317096,How to force scipy to integrate using Adams?,"['python', 'numpy']",0
+40316308,Vector Matrix product differences between sparse and dense matrix,"['python', 'numpy', 'scipy', 'sparse-matrix']",2
+40316210,how to calculate Numpy.prod() that doesn&#39;t fit in 32bits,"['python', 'numpy']",1
+40316072,"In python, how do I create an upper-diagonal table without the diagonal?","['python', 'numpy']",1
+40274354,Pyinstaller .exe cannot find _tiffile module,"['python', 'numpy', 'tiff', 'pyinstaller']",0
+15976697,"Difference between nonzero(a), where(a) and argwhere(a). When to use which?","['python', 'numpy']",2
+38895528,Polygon as a numpy matrix mask,"['python', 'numpy', 'matplotlib']",0
+40312628,Weight choice for sampling from a distribution to normal distribution,"['python', 'numpy']",0
+40241410,Plotting points after imshow changing image size,"['python', 'numpy', 'matplotlib']",1
+40306865,Converting a WinAPI screenshot to a OpenCV compatible form,"['python', 'opencv', 'numpy', 'winapi']",1
+40306410,Retrieve location info of a 2D Gaussian array,"['python', 'numpy', 'gaussian', 'data-fitting']",1
+28663856,How to count the occurrence of certain item in an ndarray in Python?,"['python', 'numpy', 'multidimensional-array', 'count']",15
+40310351,Python Update a submatrix given the indexes by a 2d matrix,"['python', 'numpy', 'matrix']",1
+40309789,Difference between nan and &#39;nan&#39; in Python,"['python', 'numpy', 'nan']",3
+40307219,How to remove or mask values in a numpy array based on another array,"['python', 'arrays', 'numpy']",1
+40289943,Converting a 3D List to a 3D NumPy array,"['python', 'list', 'python-3.x', 'numpy']",5
+21844024,Weighted percentile using numpy,"['python', 'numpy', 'weighted', 'percentile']",9
+40305885,complex math exercise on python,"['python', 'arrays', 'numpy']",1
+40304606,Numpy: extract data and coordinates from 2-D arrays,"['python', 'arrays', 'numpy', 'matrix']",2
+40292452,Overlap Integrals in Python - Storing Results in Array,"['python', 'arrays', 'numpy', 'physics', 'integral']",1
+40305734,"Numpy, new array based on an array within an array","['python', 'numpy']",1
+40305498,TensorFlow pass gradient unchaned,"['python', 'numpy', 'tensorflow']",1
+5497216,Convert vtkPoints to numpy array?,"['python', 'numpy', 'vtk']",2
+9449309,How to correctly install python-numpy in Ubuntu 11.10 Oneiric,"['python', 'ubuntu', 'numpy', 'scipy', 'python-2.7']",2
+40268494,sklearn LassoLarsCV gives a null regression coefficient for all the predictor variables,"['python', 'numpy', 'scikit-learn']",0
+39249639,python 3D numpy array time index,"['python', 'arrays', 'datetime', 'numpy', 'multidimensional-array']",2
+40300622,Slicing a list in Python: is there something like -0?,"['python', 'arrays', 'numpy', 'list-comprehension']",2
+40243118,Numpy: efficiently expand a matrix from submatrix,"['python', 'numpy', 'matrix', 'vectorization']",2
+40291403,Numpy: find local co-ordinates within a submatrix,"['python', 'arrays', 'numpy', 'matrix']",1
+40296516,Trying to print shortest path from P matrix,"['python', 'numpy', 'shortest-path', 'floyd-warshall']",1
+40297109,Create n x n cell of vectors in python,"['python', 'matlab', 'numpy']",1
+40295287,Convert python ndarray to matlab matrix,"['python', 'matlab', 'python-2.7', 'numpy']",2
+40295667,Interpolation of datetimes for smooth matplotlib plot in python,"['python', 'datetime', 'numpy', 'matplotlib', 'scipy']",2
+2448015,2d convolution using python and numpy,"['python', 'numpy', 'convolution']",4
+13354295,Python numpy masked array initialization,"['python', 'arrays', 'numpy', 'initialization']",2
+40294305,matplotlib best practice chart with markers,"['python', 'numpy', 'matplotlib']",0
+40274268,"Given two timestamps, how do I return the delta in terms of &quot;business minutes&quot;","['python', 'pandas', 'numpy']",2
+40293571,hatch more than one data serie in a histogram,"['python', 'numpy', 'matplotlib']",1
+40293531,Basemap to 2d numpy array,"['python', 'python-2.7', 'numpy', 'matplotlib', 'matplotlib-basemap']",0
+40291420,Python: passing memmap array through function?,"['python', 'numpy', 'numpy-memmap']",1
+25328818,python 2.7: cannot pip on windows &quot;bash: pip: command not found&quot;,"['python', 'bash', 'numpy', 'matplotlib', 'python-dateutil']",6
+40287113,Fastest way to calculate many regressions in python?,"['python', 'python-3.x', 'numpy', 'linear-regression']",1
+40290688,How can I fuzzy add a year to a date in numpy?,"['python', 'numpy']",2
+40291748,Convert grayscale image to color OpenCV python,"['python', 'opencv', 'numpy']",0
+40230795,greycomatrix in python including NaN&#39;s,"['python', 'numpy', 'image-processing']",1
+40290348,Index matching with multiple columns in python,"['python', 'pandas', 'numpy', 'dataframe', 'merge']",2
+40288998,Trouble importing Scipy : ImportError: No module named &#39;NUMPY_MKL&#39;,"['python', 'numpy', 'scipy']",0
+40153971,"How can I partially read 2d satellite file in Python? (binary, fromfile)","['python', 'arrays', 'numpy', 'binary', 'fromfile']",2
+40287911,Split array s.t sub-arrays sum to original,"['python', 'arrays', 'algorithm', 'numpy']",1
+40286180,Conditional statements in a loop,"['python', 'loops', 'pandas', 'numpy', 'if-statement']",2
+40261135,Find if a sorted array of floats contains numbers in a certain range efficiently,"['python', 'arrays', 'numpy']",1
+40285296,Modifying/Overwriting NumPy Array,"['python', 'arrays', 'numpy']",2
+12961279,Numpy standard deviation under a mask,"['python', 'numpy']",2
+40286849,Python/Opencv Float converting to incorrect Int when casted,"['python', 'opencv', 'numpy', 'floating-accuracy']",2
+40286593,Unusually large value for statistic in wilcoxon test in scipy,"['python', 'numpy', 'statistics']",0
+40285337,Changing the axis scale in numpy plot,"['python', 'arrays', 'numpy', 'plot']",2
+40284296,python: split matrix in hermitian and anti-hermitian part,"['python', 'numpy', 'matrix']",1
+40246152,Cython Gibbs sampler slightly slower than numpy one,"['python', 'numpy', 'cython']",3
+7089379,"Most efficient way to sum huge 2D NumPy array, grouped by ID column?","['python', 'numpy']",6
+40280265,Python pandas: flatten with arrays in column,"['python', 'arrays', 'performance', 'pandas', 'numpy']",2
+40274322,Importing packages on Anaconda on Windows won&#39;t work if PYTHONPATH is set,"['python', 'numpy', 'anaconda', 'caffe', 'pycaffe']",0
+40281646,Replace value with two arrays numpy,"['python', 'arrays', 'numpy']",1
+40281134,Can you use masks with meshgrid?,"['python', 'numpy', 'mask']",0
+40279903,What am I doing wrong in this Dopri5 implementation,"['python', 'numpy', 'ode']",1
+40279536,Python from matrix to 1-D array,"['python', 'arrays', 'python-2.7', 'numpy', 'matrix']",2
+40279398,broadcast / extend boolean array along axis in python,"['python', 'numpy', 'logical-operators', 'numpy-broadcasting']",1
+40275876,How to reshape this image array in python?,"['python', 'python-3.x', 'numpy']",4
+40277861,"Solve L1 regression using scipy.linprog get ValueError: could not broadcast input array from shape (20,1) into shape (20)","['python', 'numpy', 'scipy', 'linear-programming']",1
+40277605,Python3 numpy import error on cygwin 2.6.0,"['python', 'python-3.x', 'numpy', 'cygwin', 'windows-10']",0
+40276942,Sub-array division with overlap,"['python', 'arrays', 'numpy', 'slice']",1
+40258466,How to use out parameter in numpy.argmin to retrieve minimum indices?,"['python', 'numpy', 'scipy']",2
+40270535,Convert a dict to numpy multi-dimensional array,"['python', 'arrays', 'numpy', 'dictionary']",3
+11114225,Installing SciPy and NumPy using pip,"['python', 'numpy', 'scipy', 'pip', 'apt']",6
+1517129,How do I install SciPy on 64 bit Windows?,"['python', 'windows', '64bit', 'numpy', 'scipy']",12
+17777482,How to remove every other element of an array in python? (The inverse of np.repeat()?),"['python', 'arrays', 'numpy']",2
+40275144,Upgrading numpy version,"['python', 'python-2.7', 'numpy']",1
+40262732,"working with multindexes in pandas, finding the 3 maximum for each subindex and outputting the data","['python', 'pandas', 'numpy']",1
+40274377,"In python, how do I append/add, using a loop, a row to a numpy array without deleting the previous row?","['python', 'python-2.7', 'numpy']",3
+40266943,What is the python/numpy equivalent of num2cell()?,"['python', 'arrays', 'matlab', 'numpy']",5
+40273251,Pandas groupby with pct_change,"['python', 'pandas', 'numpy']",1
+40093776,CSV &gt;&gt; Tensorflow &gt;&gt; regression (via neural network) model,"['python', 'csv', 'numpy', 'tensorflow', 'recurrent-neural-network']",1
+40271858,Looping math over arrays,"['python', 'arrays', 'loops', 'numpy', 'for-loop']",2
+40272874,Plot chart before script end,"['python', 'numpy', 'matplotlib', 'spyder']",0
+40156494,Computing the correct effective interest rate with monthly fees,"['python', 'python-2.7', 'numpy', 'finance']",1
+40272222,Select xarray/pandas index based on specific months,"['python', 'pandas', 'numpy', 'python-xarray']",1
+40271848,Why aren&#39;t the numpy matrices equal?,"['python', 'numpy']",1
+29067406,How to read a super huge file into numpy array N lines at a time,"['python', 'arrays', 'numpy']",4
+40268410,Multipolyfit (Python): What order are the coefficients in?,"['python', 'numpy']",1
+40269126,Splitting strings in an array in python,"['python', 'numpy', 'split']",1
+40266299,"NumPy: Finding minimum in submatrices/blocks and corresponding row, column indices","['python', 'numpy', 'matrix']",2
+40261938,How to add a list as an element of a numpy n-D Matrix,"['python', 'list', 'numpy', 'matrix', 'append']",2
+40249429,Get information about a numpy dtype,"['python', 'numpy']",2
+23593295,PSD of signal in numpy and how to scale it,"['python', 'numpy', 'scale', 'signal-processing', 'fft']",2
+40267131,how to multiply 2 numpy array with different dimensions,"['python', 'arrays', 'numpy', 'matrix']",4
+4114461,Does NumPy have an inverse of unravel_index()?,"['python', 'numpy']",4
+40265514,something errors when iI use Numpy,"['python', 'numpy']",0
+40265960,curve_fit() using python,"['python', 'numpy']",1
+40265031,Replace the diagonal elements of a matrix with sum of other elements in the row in Python,"['python', 'numpy', 'matrix', 'diagonal']",1
+40218486,"&#39;float64&#39; can work, but &#39;float32&#39; cannot","['python', 'numpy', 'machine-learning', 'theano']",0
+40262164,numpy.unique throwing error,"['python', 'numpy', 'runtime-error']",2
+40244421,density plot and scipy gaussian kernel,"['python', 'numpy', 'scipy', 'kernel', 'kernel-density']",0
+40261868,Pearson Correlation after Normalization,"['python', 'pandas', 'numpy', 'scikit-learn', 'pearson']",1
+40247815,How do I build numpy for unicode ucs4,"['python', 'numpy', 'cross-compiling', 'yocto']",1
+40261325,Fill matrix diagonal with different values for each python numpy,"['python', 'numpy']",1
+40261339,SciPy pdist diagonal is zero with custom metric function,"['python', 'numpy', 'scipy']",0
+40259685,Get rows of a first array matching rows of a second one,"['python', 'numpy', 'vectorization']",1
+40256876,fill_between of pandas Dataframe (values) by column,"['python', 'numpy']",0
+17053671,Python: How do you stop numpy from multithreading?,"['python', 'multithreading', 'numpy']",4
+40252139,How to concatenate these two numpy arrays?,"['python', 'arrays', 'python-3.x', 'numpy']",3
+6855710,How to have logarithmic bins in a Python histogram,"['python', 'numpy', 'matplotlib', 'histogram']",3
+34170618,"Normal equation and Numpy &#39;least-squares&#39;, &#39;solve&#39; methods difference in regression?","['python', 'numpy', 'machine-learning', 'linear-algebra', 'linear-regression']",4
+40252765,Overriding other __rmul__ with your class&#39;s __mul__,"['python', 'numpy']",0
+40231094,Generate N positive integers within a range adding up to a total in python,"['python', 'python-2.7', 'numpy', 'random', 'range']",3
+40250501,Convert a numpy array of lists to a numpy array,"['python', 'arrays', 'numpy', 'type-conversion']",2
+15569429,Numpy gcd function,"['python', 'numpy', 'greatest-common-divisor']",3
+40246130,get dataframe slice with list of column names where not all columns are in dataframe,"['python', 'pandas', 'numpy']",3
+18915378,Rounding to significant figures in numpy,"['python', 'numpy']",4
+40245115,assigning different data types for different columns in a numpy array,"['python', 'arrays', 'csv', 'numpy']",3
+40249294,How can I interpret a float32 as four uint8s in numpy?,"['python', 'numpy', 'bitwise-operators']",1
+40249373,PDF Distributions in Python with Scipy,"['python', 'numpy', 'scipy']",0
+40249262,Difficulty Setting Up Numpy for Python 2.7 on Mac OSX,"['python', 'osx', 'python-2.7', 'numpy']",1
+40247760,scipy convolve2d outputs wrong values,"['python', 'debugging', 'numpy', 'scipy', 'convolution']",2
+40235453,Python: unable to convert string into number,"['python', 'pandas', 'numpy']",2
+40190402,python - pass 3d array to C code,"['python', 'c', 'numpy', 'ctypes']",1
+34130951,&quot;No space left on device&quot; when installing Numpy on an Azure Web Role,"['python', 'azure', 'numpy', 'pip', 'azure-web-roles']",2
+40247125,Optimizing bicubic equation solver with numpy,"['python', 'performance', 'numpy', 'matrix', 'vectorization']",1
+40246536,Autoencoder - cost decreases but wrong output when more than one data example,"['python', 'numpy', 'machine-learning', 'artificial-intelligence', 'autoencoder']",0
+40228020,assigning to a wrapped slice of a numpy array,"['python', 'numpy', 'indexing']",3
+40244911,Python Numpy: Performing different column operations over every N rows,"['python', 'arrays', 'numpy']",2
+40245277,Visualize feature selection in descending order with SelectKBest,"['python', 'python-2.7', 'numpy', 'matplotlib', 'scikit-learn']",1
+36009907,Numpy reshape 1d to 2d array with 1 column,"['python', 'arrays', 'python-2.7', 'numpy']",3
+40244869,Change string to integer in all lists inside a list using Python,"['python', 'python-2.7', 'numpy']",5
+40241561,Multipolyfit IndexError: tuple index out of range,"['python', 'python-2.7', 'numpy']",1
+40243481,compare two pandas data frame,"['python', 'pandas', 'numpy']",2
+40241047,Matrix vector product of panel and dataframe without loop,"['python', 'pandas', 'numpy']",0
+38410631,"Given a byte buffer, dtype, shape and strides, how to create Numpy ndarray","['python', 'arrays', 'numpy', 'multidimensional-array', 'buffer']",3
+32791911,Fast calculation of Pareto front in Python,"['python', 'numpy']",2
+40234982,Integer optimization/maximization in numpy,"['python', 'numpy', 'mathematical-optimization']",2
+36383107,How to evaluate the sum of values within array blocks,"['python', 'numpy']",3
+4923617,Efficient Numpy 2D array construction from 1D array,"['python', 'numpy']",7
+40217325,How to get pandas dataframe where columns are the subsequent n-elements from another column dataframe?,"['python', 'pandas', 'numpy', 'dataframe', 'scikit-learn']",2
+40239328,How to access an item from S3 using boto3 and read() its contents,"['python', 'numpy', 'amazon-s3', 'boto3']",1
+40234839,Numpy: rotate sub matrix m of M,"['python', 'numpy', 'matrix']",1
+40233697,Speed up double for loop in numpy,"['python', 'performance', 'numpy', 'parallel-processing', 'vectorization']",1
+40235339,Store integer and float in numpy array in matrix form,"['python', 'arrays', 'numpy', 'matrix']",1
+40232855,Numpy: efficiently sum sub matrix m of M,"['python', 'numpy', 'matrix']",1
+40233664,Cython actually slowing me down,"['python', 'numpy', 'cython']",0
+40212954,Calculate the value of a function for each row in a matrix without iteration through all rows,"['python', 'numpy', 'matrix', 'regression']",0
+40234158,Arrange list to numpy array in matrix form,"['python', 'arrays', 'numpy']",1
+40167963,make_node requires 4D tensor of kernels,"['python', 'numpy', 'theano', 'keras']",1
+40233712,Python FFTN slow in comparison to MATLAB,"['python', 'matlab', 'performance', 'numpy']",0
+40097693,TensorFlow estimator.predict: Saving when as_iterable=True,"['python', 'numpy', 'tensorflow']",1
+40231502,definition of each section of the scipy linear programming function,"['python', 'numpy', 'scipy', 'linear-programming']",0
+40231725,How to generate features of data in my case so that I can use some tools like LinearRegression to predict?,"['python', 'numpy', 'scikit-learn', 'regression', 'data-mining']",1
+40231128,add a dummy dimension for a multi-dimensional array,"['python', 'numpy', 'scipy']",5
+40230064,"Attempt to open h5py file, returns errorno = 17, error message = &#39;file exists&#39;","['python', 'numpy', 'h5py']",1
+40229147,Why do Mathematica and Python&#39;s answers differ when dealing with singular matrix equations?,"['python', 'matlab', 'numpy', 'matrix', 'linear-algebra']",1
+40223433,complex merge pandas numpy with Aggregation,"['python', 'pandas', 'numpy']",1
+40227806,Why are the return types of the numpy sum and mean function behaving differently when fed with a masked array?,"['python', 'arrays', 'numpy', 'masked-array']",1
+40228453,Delete row and column in symmetric array if all the values in a row (or column) do not satisfy a given contion,"['python', 'arrays', 'numpy']",1
+40225098,Obtain box2d from superpixels segments,"['python', 'opencv', 'numpy', 'scipy']",1
+40227110,"I have a single dimention distribution which has two peaks, and a minima. How can I find the value of the minima in Python?","['python', 'python-2.7', 'numpy', 'machine-learning', 'data-analysis']",0
+40226357,Second Derivative in Python - scipy/numpy/pandas,"['python', 'arrays', 'numpy', 'scipy']",2
+40208054,log2 axis doesn&#39;t work for histograms in matplotlib/seaborn,"['python', 'pandas', 'numpy', 'matplotlib', 'seaborn']",1
+40226995,how to pad an 1-D numpy array with 0&#39;s,"['python', 'numpy']",1
+40226670,calculate useful order statistics using describe with NaN in dataframe,"['python', 'pandas', 'numpy']",2
+40225870,python: mean of variable length 2 matrix,"['python', 'arrays', 'numpy']",5
+40226718,python matplotlib loop output not plotting,"['python', 'numpy', 'matplotlib', 'scatter']",0
+40226192,Filling a 2D matrix in numpy using a for loop,"['python', 'matlab', 'numpy']",1
+40225901,Numpy: create a matrix from smaller matrices,"['python', 'numpy', 'matrix']",2
+40224814,most efficient way to randomly null out values in dataframe,"['python', 'pandas', 'numpy']",2
+25057835,Get the mean across multiple Pandas DataFrames,"['python', 'r', 'numpy', 'pandas']",5
+6950456,How to create a dynamic array,"['python', 'list', 'numpy']",1
+40224987,Python Pandas: &#39;numpy.ndarray&#39; object has no attribute &#39;apply&#39;,"['python', 'pandas', 'numpy']",1
+25696615,Can I save a numpy array as a 16-bit image using &quot;normal&quot; (Enthought) python?,"['python', 'numpy']",2
+18689235,numpy array: replace nan values with average of columns,"['python', 'arrays', 'numpy', 'nan']",7
+40223114,NumPy: fill fields surrounding a 1 in an array,"['python', 'arrays', 'numpy', 'matrix']",2
+40218641,Gradient Descent Variation doesn&#39;t work,"['python', 'numpy', 'gradient-descent']",1
+40221646,Predictive modelling - Regression with grouped id&#39;s and moving average (python),"['python', 'pandas', 'numpy', 'machine-learning', 'scikit-learn']",1
+27612741,Grid of values from a table in python,"['python', 'numpy', 'multidimensional-array', 'scipy', 'interpolation']",1
+30561018,Cannot figure out what input to use to get cv2.calcOpticalFlowPyrLK method to work,"['python', 'arrays', 'opencv', 'numpy', 'opticalflow']",2
+40219946,Python : save dictionaries through numpy.save,"['python', 'numpy', 'dictionary']",2
+40220285,Reshaping a python numpy array in a custom way,"['python', 'arrays', 'numpy']",2
+40219386,using numpy.any to match color in opencv gives strange results,"['python', 'opencv', 'numpy']",1
+40219628,Convert mask from numpy array to QBItmap,"['python', 'numpy', 'pyqt', 'pyqt5', 'image-masking']",0
+40217173,install scipy package via pycharm in windows 10 64 bit - python 3.5,"['python', 'numpy', 'scipy', 'pip', 'python-3.5']",1
+3674409,"Numpy: How to split/partition a dataset (array) into training and test datasets for, e.g., cross validation?","['python', 'arrays', 'optimization', 'numpy']",6
+8486294,How to add an extra column to an numpy array,"['python', 'numpy']",10
+40088756,Remove Outliers from Python fit,"['python', 'numpy', 'statistics', 'data-fitting']",0
+40216570,Indexing of 3d numpy arrays with 2d arrays,"['python', 'arrays', 'numpy']",1
+40177960,Circular lat/lon crop of a NetCDF file with Python,"['python', 'python-2.7', 'numpy', 'netcdf', 'nco']",1
+40215510,ValueError: Unknown label type: array while using Decision Tree Classifier and using a custom dataset,"['python', 'numpy', 'scikit-learn', 'decision-tree']",1
+40214600,Slicing arrays based on boolean array in python,"['python', 'arrays', 'numpy', 'boolean-logic', 'object-slicing']",1
+40176578,Training huge amounts of data with tensorflow,"['python', 'numpy', 'input', 'tensorflow']",1
+35687678,Using a pre-trained word embedding (word2vec or Glove) in TensorFlow,"['python', 'numpy', 'tensorflow', 'deep-learning']",3
+40163502,Python alternative for MATLAB code &#39;min(Ar_1(Ar_1~=0))&#39;,"['python', 'arrays', 'matlab', 'numpy']",1
+25368750,Using Numpy Array to Create Unique Array,"['python', 'arrays', 'numpy', 'unique']",1
+40167708,Ubunto:3.19_x86_64: Unable to import &quot;Theano&quot; in Anaconda 4.2 with python 2.7,"['python', 'ubuntu', 'numpy', 'anaconda', 'theano']",0
+28190534,Windows Scipy Install: No Lapack/Blas Resources Found,"['python', 'windows', 'python-3.x', 'numpy', 'pip']",7
+40207906,Python Numpy: Coalesce and return first nonzero observation,"['python', 'arrays', 'numpy', 'coalesce']",1
+40207716,Convert pandas to numpy.ndarray for sparse.hstack,"['python', 'pandas', 'numpy', 'sparse-matrix']",2
+40205252,AttributeError: &#39;Float&#39; object has no attribute &#39;sqrt&#39; With numpy.std(array),"['python', 'numpy', 'sympy']",0
+40203224,Convert type from BigFloat to Float in python,"['python', 'numpy', 'bigfloat']",1
+40205574,pandas to numpy array for sklearn pipeline,"['python', 'numpy', 'scikit-learn', 'converter', 'pipeline']",1
+35611440,Numpy octuple precision floats and 128 bit ints. Why and how?,"['python', 'numpy', 'int128']",2
+40199699,Numpy unique elements according to every column,"['python', 'numpy']",0
+40203809,pandas new column equals another column with condition,"['python', 'database', 'pandas', 'numpy', 'dataframe']",1
+902761,Saving a Numpy array as an image,"['python', 'image', 'numpy']",11
+40203639,read element from numpy.zeroes,"['python', 'arrays', 'numpy', 'matrix']",0
+40183855,How to write string and ndarray into a file sequentially?,"['python', 'numpy', 'io', 'output']",0
+40200543,Fitting data to numerical solution of an ode in python,"['python', 'numpy', 'scipy', 'curve-fitting', 'data-analysis']",2
+19727435,Python OpenCV - Trouble detecting tiny &quot;holes&quot; (circles),"['python', 'opencv', 'numpy', 'image-recognition']",1
+40199915,Get top N elements from array in descending order,"['python', 'numpy']",2
+7818811,Import Error: No module named numpy,"['python', 'import', 'numpy', 'scipy']",8
+40199543,How slicing inequality interval by numpy or scipy,"['python', 'numpy', 'scipy']",1
+40200322,A faster way to separate the green channel of an image,"['python', 'numpy', 'image-processing', 'python-imaging-library']",2
+40201236,Exception : &quot;Invalid norm order for vectors&quot; - Python,"['python', 'numpy', 'vector', 'normalization']",1
+40200082,How to reduce the degree of sparseness of a 2D numpy array?,"['python', 'numpy']",1
+40200070,axis = 0 is not clearly understood in numpy.sum,"['python', 'arrays', 'numpy']",1
+40195097,incrementing by 1 for a row and column for a slice,"['python', 'numpy', 'increment']",2
+31303839,sklearn PCA not working,"['python', 'numpy', 'scikit-learn', 'pca']",1
+40198443,Pandas dataframe divide rows based on dates,"['python', 'pandas', 'numpy']",1
+40187126,how do I card shuffle a pandas series quickly,"['python', 'pandas', 'numpy']",2
+40100340,numpy multivariate_normal bug when dimension too high,"['python', 'numpy']",1
+40097213,How do I median bin a 2D image in python?,"['python', 'arrays', 'numpy']",1
+40196541,reading and slicing a 2d list in python,"['python', 'numpy']",3
+40196986,Numpy arrays changing id,"['python', 'python-2.7', 'numpy']",1
+40196995,Python numpy create copy and not reference,"['python', 'numpy', 'pypng']",1
+40196231,Can I apply a vectorized function to a pandas dataframe?,"['python', 'pandas', 'numpy', 'dataframe', 'vectorization']",1
+38399401,"Seems to have both NumPy 1.8.2 and 1.10.4 installed, also compatibility issues between rllab and OpenAI gym?","['python', 'linux', 'numpy', 'openai-gym']",0
+40195460,Using .remove() creates error &quot;Use a.any() or a.all()&quot;,"['python', 'python-3.x', 'numpy', 'pygame']",0
+40192686,Reading tab delimited csv into numpy array with different data types,"['python', 'arrays', 'csv', 'numpy']",3
+40194849,time step data VTK to Maplotlib using Numpy,"['python', 'numpy', 'matplotlib', 'vtk']",0
+7852519,Ternary operator for NumPy ndarray?,"['python', 'arrays', 'numpy', 'multidimensional-array']",1
+40192616,Cleaning and grouping values,"['python', 'pandas', 'numpy', 'dataframe']",2
+40192001,convert &quot;meshvectors&quot; to meshgrid in Python,"['python', 'numpy', 'matplotlib', 'visualization']",1
+40182633,"Data import (reshape, numpy, pandas)","['python', 'python-3.x', 'pandas', 'numpy']",1
+14570011,Explain why numpy should not be imported from source directory,"['python', 'import', 'numpy', 'matplotlib', 'directory']",1
+40192024,Numpy matrix multiplication behaviour,"['python', 'numpy', 'matrix-multiplication']",1
+21562986,numpy matrix vector multiplication,"['python', 'arrays', 'numpy', 'vector', 'matrix']",1
+40192134,Implementing ast.literal_eval on a numpy array involves lists,"['python', 'numpy']",0
+40190181,Filling Array with subsequent value,"['python', 'arrays', 'python-2.7', 'pandas', 'numpy']",2
+40182684,Applying Sklearn Gaussian Mixture algorithm to fit GM curves,"['python', 'numpy', 'scikit-learn', 'curve-fitting', 'gaussian']",1
+40190001,Is there an OpenCV equivalent of scipy.ndimage.find_objects?,"['python', 'c++', 'opencv', 'numpy']",0
+32909619,"numpy array 1.9.2 getting ValueError: could not broadcast input array from shape (4,2) into shape (4)","['python', 'numpy']",1
+40188922,Implementing zero mean and zero variance in numpy,"['python', 'numpy', 'machine-learning', 'normalization']",2
+40188251,"Difference between numpy.zeros(n) and numpy.zeros(n,1)","['python', 'numpy']",1
+12402045,Mesh grid functions in Python (meshgrid mgrid ogrid ndgrid),"['python', 'numpy', 'scipy']",1
+40186887,how to append a numpy matrix into an empty numpy array,"['python', 'arrays', 'numpy', 'matrix', 'append']",4
+40186800,Error importing numpy,"['python', 'python-2.7', 'numpy']",1
+26657334,Installing NumPy and SciPy on 64-bit Windows (with Pip),"['python', 'numpy', 'scipy', 'windows64']",6
+40186574,TypeError: Mismatch between array dtype (&#39;|S6&#39;) and format specifier (&#39;%.18e&#39;),"['python', 'numpy']",0
+40185437,No module named &#39;numpy&#39;: Visual Studio Code,"['python', 'pandas', 'numpy', 'vscode']",1
+40184686,How to convert from a set to an array in python,"['python', 'arrays', 'numpy', 'set', 'itertools']",2
+40183552,synchronously select samples from two multi-dimensional arrays,"['python', 'numpy', 'scipy']",1
+30340628,Delete rows at select indexes from a numpy array,"['python', 'arrays', 'numpy']",2
+40185090,"np.array indexing given row index list, select rows not in index list","['python', 'numpy', 'scipy']",0
+40179605,Insert matplotlib&#39;s Path into Numpy ndarray,"['python', 'numpy', 'matplotlib']",2
+40184497,Plot list of lists (which different length) in a plot in python,"['python', 'numpy', 'plot']",1
+40179398,how to handle nan in functions that should be used both for numpy and scalars?,"['python', 'arrays', 'numpy']",2
+40183590,Project a multi-class array into a binary matrix,"['python', 'numpy', 'matrix', 'binary-matrix']",1
+40182466,Is it possible to add a new field in a numpy.genfromtxt output?,"['python', 'numpy', 'genfromtxt']",1
+4753738,Increasing speed of python list operations and comparisons in a custom table class,"['python', 'arrays', 'numpy']",2
+40179209,Tensorflow - Testing a mnist neural net with my own images,"['python', 'numpy', 'tensorflow', 'mnist']",1
+23478297,Pandas Dataframe or Panel to 3d numpy array,"['python', 'numpy', 'pandas']",2
+40182028,Python Pandas creating a long list of dataframes to get concatenated,"['python', 'pandas', 'numpy', 'append', 'concatenation']",1
+40008985,AttributeError: &#39;numpy.ndarray&#39; object has no attribute &#39;split&#39;,"['python', 'numpy']",1
+40179434,Pandas: Exception while plotting two data frames on the same graph,"['python', 'pandas', 'numpy', 'matplotlib', 'plot']",1
+11731768,Installing numpy on Red Hat 6?,"['python', 'linux', 'numpy', 'installation', 'rhel6']",3
+40177378,None values in numpy arrays,"['python', 'numpy', 'nonetype']",0
+40175327,Numpy element-wise in operation,"['python', 'performance', 'numpy', 'vectorization', 'elementwise-operations']",1
+39973243,Randomly select list from list of lists in python depending on weights,"['python', 'list', 'numpy', 'random']",1
+40174935,Efficiently sum up a couple of values into several bins in Numpy,"['python', 'numpy']",0
+15007998,image processing using python and scipy,"['python', 'numpy', 'scipy', 'python-imaging-library']",3
+40172406,"numpy 1.9.3, ImportError: No module named _globals","['python', 'numpy', 'conda']",0
+40168737,Align dataframe diagonals into columns?,"['python', 'pandas', 'numpy', 'dataframe', 'diagonal']",2
+40169359,How to sample a numpy array and perform computation on each sample efficiently?,"['python', 'performance', 'pandas', 'numpy', 'vectorization']",1
+40143365,Theano operations returning odd results,"['python', 'numpy', 'theano', 'nnet']",2
+23906324,"ValueError: operands could not be broadcast together with shapes (224,224) (180,180)","['python', 'numpy']",2
+40169754,scipy.integrate.odeint with segmentation fault,"['python', 'numpy']",0
+40169702,pyenv cannot copy anaconda packages to an anaconda virtualenv,"['python', 'numpy', 'virtualenv', 'anaconda', 'pyenv']",0
+40065378,Python using custom color in plot,"['python', 'numpy', 'matplotlib', 'colors']",2
+40162890,opencv cvtColor dtype issue(error: (-215) ),"['python', 'opencv', 'numpy']",1
+20567418,Error installing numpy,"['python', 'numpy']",4
+40165223,Convert numpy array to list of datetimes,"['python', 'arrays', 'datetime', 'numpy']",2
+22320534,How does the axis parameter from NumPy work?,"['python', 'arrays', 'numpy']",2
+40166725,Element wise subtraction of two lists of lists,"['python', 'numpy']",0
+37545626,Python - Loop parallelisation with joblib,"['python', 'numpy', 'parallel-processing', 'joblib']",0
+40164310,locate entries with given value for a multi-dimensional array and visualize it,"['python', 'numpy', 'matplotlib', 'scipy']",1
+40159682,For Loop Optimization in Python,"['python', 'numpy']",1
+40165477,ValueError: Linkage &#39;Z&#39; uses the same cluster more than once in Python scipy fcluster,"['python', 'numpy', 'scipy', 'hierarchical-clustering']",0
+40164179,append element to the end of each arrow in numpy array,"['python', 'arrays', 'numpy', 'append']",1
+40163892,np.where() or another boolean way for new pandas dataframe column,"['python', 'pandas', 'numpy']",1
+40162891,on modifying the shape of numpy array resulting from input image,"['python', 'numpy', 'scipy', 'computer-vision', 'skimage']",1
+40159019,Numpy genfromtxt reads additional unwanted strings,"['python', 'string', 'numpy', 'slash']",1
+31400769,bounding box of numpy array,"['python', 'arrays', 'numpy', 'transformation']",3
+40161784,Emulate texture reading with Numpy,"['python', 'numpy']",0
+4601373,Better way to shuffle two numpy arrays in unison,"['python', 'random', 'numpy', 'shuffle']",6
+40158720,nested np.where and boolean array indexing issue,"['python', 'python-2.7', 'numpy']",1
+40160131,Get rid of a dimension by concatenating into another dimension,"['python', 'numpy']",1
+40043444,Python matrix comparison,"['python', 'performance', 'numpy', 'matrix', 'comparison']",1
+4001577,Difference between random draws from scipy.stats....rvs and numpy.random,"['python', 'numpy', 'random', 'scipy']",2
+40157835,Finding repeated rows in a numpy array,"['python', 'arrays', 'function', 'numpy']",2
+40157958,Overlaying two pandas Dataframes or numpy arrays and creating a key-value dictionary,"['python', 'pandas', 'numpy', 'dictionary', 'overlay']",1
+40158984,Asymmetric variant of the Cuthill-McKee algorithm,"['python', 'algorithm', 'numpy', 'math', 'linear-algebra']",0
+20077146,How to use numpy&#39;s hstack?,"['python', 'arrays', 'numpy', 'concatenation']",3
+34097281,How can I convert a tensor into a numpy array in TensorFlow?,"['python', 'numpy', 'tensorflow']",3
+40158189,Python - numpy.histogram2d contour map not appearing,"['python', 'numpy']",0
+40153127,Check numpy installation? Ubuntu 16.04,"['python', 'python-2.7', 'numpy', 'ubuntu-16.04']",0
+40156713,Find wrong colored pixels between boundaries,"['python', 'numpy', 'colors']",2
+40138031,How to read realtime microphone audio volume in python and ffmpeg or similar,"['python', 'linux', 'numpy', 'audio', 'ffmpeg']",1
+40157019,Convert a Python function to Cython,"['python', 'numpy', 'cython']",0
+40153301,Performance difference between scipy and numpy norm,"['python', 'numpy', 'scipy']",1
+40113072,How can I append a numpy array of N-Length to another array of N-dimensions?,"['python', 'arrays', 'numpy']",2
+40121582,Efficient matrix multiplication in Matlab,"['python', 'matlab', 'numpy', 'matrix', 'matrix-multiplication']",1
+40154905,numpy is not a supported wheel on the platform,"['python', 'numpy']",0
+643699,How can I use numpy.correlate to do autocorrelation?,"['python', 'math', 'numpy', 'numerical-methods']",7
+40140942,Numpy: How to vectorize parameters of a functional form of a function applied to a data set,"['python', 'numpy', 'vectorization', 'numpy-broadcasting']",1
+40154017,Choosing a function from a list and applying it to generate an array,"['python', 'arrays', 'numpy', 'indexing']",1
+40152997,Numpy arange floating point inconsistency,"['python', 'arrays', 'numpy', 'floating-point']",2
+40148085,Faster shuffle for a large numpy memmap array,"['python', 'numpy', 'mmap']",0
+40152372,logical arrays and mapping in python,"['python', 'arrays', 'numpy', 'mapping', 'logical-operators']",1
+40132352,python filter 2d array by a chunk of data,"['python', 'arrays', 'numpy']",5
+40134604,How to copy content of a numpy matrix to another?,"['python', 'numpy', 'matrix']",2
+32419510,How to get reproducible results in keras,"['python', 'numpy', 'theano', 'keras']",5
+40150330,Merge multiple masks with different sizes,"['python', 'arrays', 'numpy', 'merge', 'mask']",1
+40072312,TypeError: return arrays must be of ArrayType,"['python', 'numpy', 'multidimensional-array', 'typeerror']",2
+40146998,Theano logistic regression dimension mismatch,"['python', 'numpy', 'machine-learning', 'neural-network', 'theano']",1
+40143044,Removing a subarray after using numpy.split,"['python', 'numpy']",1
+40121953,Python script to count pixel values fails on a less-than/greater-than comparison,"['python', 'arrays', 'numpy', 'operators', 'truthiness']",1
+40133016,How to group pandas DataFrame by varying dates?,"['python', 'pandas', 'numpy']",2
+7688304,How to force numpy array order to fortran style?,"['python', 'arrays', 'performance', 'numpy', 'fortran']",2
+40145113,iPython imshow() or numpy row selection,"['python', 'numpy', 'ipython', 'imshow']",1
+40142804,"Python Array Reshaping Issue to Array with Shape (None, 192)","['python', 'numpy', 'keras']",2
+40143684,"Python: float() argument must be a string or a number, not &#39;interp2d&#39;","['python', 'numpy', 'scipy', 'spyder', 'netcdf']",1
+40139603,sum numpy array of tags in one hot encoding,"['python', 'arrays', 'numpy']",1
+14741771,How to arrange the data for a heatmap pcolormesh?,"['python', 'numpy', 'matplotlib']",1
+40142688,Numpy installation issues with Miniconda2,"['python', 'numpy', 'anaconda', 'caffe', 'miniconda']",0
+40142166,How to fix &quot;TypeError: len() of unsized object&quot;,"['python', 'arrays', 'numpy']",2
+40142004,Efficiently summing outer product for 1D NumPy arrays,"['python', 'numpy', 'optimization']",1
+40109915,Python numpy.fft changes strides,"['python', 'arrays', 'numpy', 'memory-management', 'fft']",2
+40141895,How to do a substring using pandas or numpy,"['python', 'pandas', 'numpy']",1
+40125236,Python vectorization with a constant,"['python', 'performance', 'pandas', 'numpy', 'vectorization']",1
+40128895,Numpy conversion of column values in to row values,"['python', 'performance', 'numpy', 'matrix']",1
+34165731,A column-vector y was passed when a 1d array was expected,"['python', 'numpy', 'pandas']",2
+40139826,How do I return a nonflat numpy array selecting elements given a set of conditions?,"['python', 'arrays', 'numpy', 'conditional', 'slice']",2
+40139167,insert element in the start of the numpy array,"['python', 'arrays', 'numpy']",3
+40137372,Concatinating multiple Data frames of different length,"['python', 'pandas', 'numpy', 'dataframe']",1
+36381356,Sort matrix based on its diagonal entries,"['python', 'sorting', 'python-3.x', 'numpy', 'matrix']",2
+40099585,Python Multiprocessing data output wrong,"['python', 'numpy', 'multiprocessing']",1
+40137051,How to find the longest sub-array within a threshold?,"['python', 'arrays', 'algorithm', 'numpy']",3
+32460369,python - set up time-step delay between two arrays,"['python', 'numpy', 'machine-learning', 'neural-network', 'deep-learning']",1
+40112284,Accelerate or decelerate a movie clip,"['python', 'numpy', 'moviepy']",1
+40134810,cast numpy array into memmap,"['python', 'arrays', 'numpy', 'numpy-memmap']",1
+40130126,Labels show up interactively on click in python matplotlib,"['python', 'numpy', 'matplotlib']",1
+39688133,Cleanest way to combine reduce and map in Python,"['python', 'numpy', 'deep-learning', 'reduce']",3
+38509538,Numpy: Checking if a value is NaT,"['python', 'numpy']",2
+40128515,pairwise comparisons within a dataset,"['python', 'python-2.7', 'numpy', 'scipy', 'cosine-similarity']",1
+40128621,finding the upper limit of integral using fsolve,"['python', 'numpy', 'scipy', 'quad']",0
+40114534,Numpy 4d array slicing,"['python', 'numpy']",1
+40126029,Numpy Array reshape,"['python', 'numpy', 'scipy']",0
+40126853,Fastest way to build a Matrix with a custom architecture,"['python', 'pandas', 'numpy']",1
+24788200,Calculate the Cumulative Distribution Function (CDF) in Python,"['python', 'numpy', 'machine-learning', 'statistics', 'scipy']",1
+39951768,Finding subset of dataframe rows that maximize one column sum while limiting sum of another,"['python', 'algorithm', 'pandas', 'numpy', 'data-science']",2
+21324426,Numpy build fails with cannot import multiarray,"['python', 'osx', 'python-2.7', 'numpy', 'homebrew']",2
+40122119,append to an array without replacing original array python,"['python', 'arrays', 'numpy', 'append']",0
+40122077,Why sparse matrix computing on python is too slow,"['python', 'performance', 'numpy', 'scipy', 'sparse-matrix']",1
+40076368,matplotlib/pyplot not plotting data from specific .txt file,"['python', 'numpy', 'matplotlib', 'plot']",1
+36233918,Find Indices Of Columns Having Some Nonzero Element In A 2d array,"['python', 'numpy']",1
+40101371,How to replace each array element by 4 copies in Python?,"['python', 'arrays', 'numpy']",3
+40120299,Efficient way to select most recent index with finite value in column from Pandas DataFrame?,"['python', 'pandas', 'numpy', 'dataframe']",2
+40120818,how to hide axes in matplotlib.pyplot,"['python', 'numpy', 'matplotlib']",2
+36868294,Image not found error while trying to import gdal in python,"['python', 'numpy', 'anaconda', 'gdal']",1
+40098142,Taking fast screenshot Winapi and Opencv,"['python', 'opencv', 'numpy', 'winapi']",0
+40120754,numpy.linalg.eig giving demonstrably incorrect eigenvector,"['python', 'numpy', 'linear-algebra', 'eigenvector']",0
+40118240,"get, access and modify element values for an numpy array","['python', 'numpy', 'scipy']",1
+40119743,convert a grayscale image to a 3-channel image,"['python', 'numpy']",2
+32302654,"Scipy, differential evolution","['python', 'numpy', 'scipy', 'differential-evolution']",1
+30503321,Finding count of distinct elements in DataFrame in each column,"['python', 'numpy', 'pandas']",3
+40118638,Pandas merging 2 DataFrames into one graph,"['python', 'pandas', 'numpy', 'matplotlib']",1
+40118055,Numpy CAPI PyArray_New Visual Studio Warning C4055,"['python', 'c', 'visual-studio', 'numpy', 'python-c-api']",0
+40116437,Having trouble rewriting code to list comprehension for image rotation in python,"['python', 'opencv', 'numpy', 'list-comprehension']",1
+27115491,Subclassing datetime64,"['python', 'numpy', 'subclass', 'datetime64']",1
+11442962,Python package that supports weighted covariance computation,"['python', 'numpy', 'statistics', 'scipy', 'covariance']",1
+40075164,Determine mean value of ‘data’ where the highest number of CONTINUOUS cond=True,"['python', 'performance', 'pandas', 'numpy']",2
+40116126,How to apply a short FIR low-pass filter in Python,"['python', 'numpy', 'scipy', 'signal-processing', 'lowpass-filter']",0
+40115608,How to turn a 1D radial profile into a 2D array in python,"['python', 'performance', 'numpy', 'multidimensional-array', 'vectorization']",1
+40112139,Efficiently handling duplicates in a Python list,"['python', 'algorithm', 'numpy', 'grouping', 'graph-algorithm']",2
+22814609,cv2.hough circles error on video,"['python', 'linux', 'opencv', 'numpy']",3
+40098820,Python code to return total count of no. of positions in which items are differing at same index,"['python', 'arrays', 'python-2.7', 'python-3.x', 'numpy']",2
+40114327,How can I insert a Series into a DataFrame row?,"['python', 'pandas', 'numpy', 'dataframe']",1
+4535374,initialize a numpy array,"['python', 'arrays', 'numpy']",7
+40016519,From 3D to 2D-array Basemap plot (Python),"['python', 'arrays', 'numpy']",1
+40112487,AttributeError: &#39;numpy.ndarray&#39; object has no attribute &#39;median&#39;,"['python', 'numpy']",1
+40109379,How do I link python 3.4.3 to opencv?,"['python', 'python-2.7', 'python-3.x', 'opencv', 'numpy']",1
+40107591,Indexing and slicing dataframe by date and time in python,"['python', 'pandas', 'numpy', 'dataframe']",1
+8355197,Detrending a time-series of a multi-dimensional array without the for loops,"['python', 'numpy', 'signal-processing', 'scipy']",3
+40101130,how do I calculate a rolling idxmax,"['python', 'pandas', 'numpy', 'dataframe', 'series']",4
+40105414,python - &#39;the truth value of an array with more than one element is ambiguous&#39; - what truth value?,"['python', 'arrays', 'numpy']",1
+40106537,Theano shared variable constructor error,"['python', 'numpy', 'theano']",1
+40102711,Percentage format in elements of python graph,"['python', 'numpy']",1
+38453249,Is there a Matlab&#39;s buffer equivalent in numpy?,"['python', 'matlab', 'numpy', 'buffer']",1
+40093475,Only show value of n*n matrix if value from another n*n has a certain value (Python),"['python', 'numpy', 'matplotlib', 'scipy', 'seaborn']",1
+40104730,Vertical Bar chart using rotation=&#39;vertical&#39; not working,"['python', 'numpy', 'matplotlib']",1
+40095712,When to apply(pd.to_numeric) and when to astype(np.float64) in python?,"['python', 'pandas', 'numpy', 'dataframe', 'types']",1
+38455548,How can I pick specific records in TensorFlow from a .tfrecords file?,"['python', 'python-2.7', 'numpy', 'machine-learning', 'tensorflow']",1
+3213212,Matlab equivalent of Numpy broadcasting?,"['python', 'matlab', 'numpy', 'numpy-broadcasting']",4
+40095325,Covariance matrix from np.polyfit() has negative diagonal?,"['python', 'python-2.7', 'numpy', 'statistics', 'linear-regression']",1
+40103226,kNN - How to locate the nearest neighbors in the training matrix based on the calculated distances,"['python', 'numpy', 'machine-learning', 'knn']",1
+33100702,How does numpy.transpose work for this example?,"['python', 'numpy', 'transpose']",1
+40099264,Why can I make a numpy array that&#39;s (apparently) bigger than my computer&#39;s memory?,"['python', 'numpy', 'memory', 'scipy', 'sparse-matrix']",1
+40099111,What is the most efficient module for the display of an updating matrix,"['python', 'python-3.x', 'numpy']",0
+40097086,Plotting asymmetric error bars Matplotlib,"['python', 'numpy', 'matplotlib']",1
+40097249,Prevent numpy from vectorizing multiplication,"['python', 'numpy']",0
+40096826,Ranking python dictionary by percentile,"['python', 'numpy', 'dictionary']",1

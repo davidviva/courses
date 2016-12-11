@@ -1,0 +1,17 @@
+,movieId,title,genres,imdbId,tmdbId,year,userId,rating,timestamp,date,gender,age,occupation,zipcode,cmd
+5568,128620,Victoria ,(no genres listed),4226388,320007.0,2015,56,5.0,1467003913,2016,M,35,20,60440,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+5587,160590,Survive and Advance ,(no genres listed),2751904,177869.0,2013,56,5.0,1467095789,2016,M,35,20,60440,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+7861,141866,Green Room ,(no genres listed),4062536,313922.0,2015,73,4.0,1469772876,2016,M,18,4,53706,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+16248,136592,Freaky Friday ,(no genres listed),113112,196257.0,1995,200,1.5,1438020227,2015,F,18,4,84321,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+23339,117192,Doctor Who: The Time of the Doctor ,(no genres listed),2986512,282848.0,2013,287,5.0,1473445036,2016,M,50,13,94706,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+27235,149532,Marco Polo: One Hundred Eyes ,(no genres listed),5248968,372981.0,2015,324,3.0,1451519751,2015,M,35,17,55106,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+32139,117192,Doctor Who: The Time of the Doctor ,(no genres listed),2986512,282848.0,2013,402,4.5,1462945915,2016,M,25,11,55427,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+37627,126106,Beastie Boys: Sabotage ,(no genres listed),167030,53285.0,1994,457,3.5,1471409573,2016,M,18,4,54703,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+50587,134025,Open Secret ,(no genres listed),1739304,334130.0,2013,547,3.0,1432654721,2015,M,35,12,76109,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+60675,129250,Superfast! ,(no genres listed),2933474,325358.0,2015,624,0.5,1447868930,2015,M,25,1,75207,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+75185,128616,As We Were Dreaming ,(no genres listed),3306858,311301.0,2015,648,4.0,1426357951,2015,F,25,12,94131,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+81808,83829,Scorpio Rising ,(no genres listed),58555,46787.0,1964,299,4.5,1344180332,2012,M,25,12,97370,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+83199,122888,Ben-hur ,(no genres listed),2638144,271969.0,2016,371,5.0,1473624419,2016,M,18,4,2141,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+85217,140753,The Men Next Door ,(no genres listed),2404645,146778.0,2012,652,4.0,1439587070,2015,M,18,20,12222,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+85222,140763,Boy Crazy ,(no genres listed),1374841,185768.0,2009,652,5.0,1439587331,2015,M,18,20,12222,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
+92937,132952,Sarfarosh ,(no genres listed),200087,31524.0,1999,572,4.0,1436466718,2015,M,18,4,61801,/Users/wuyan/GitHub/DataAnalysisPython/Final/data/genres/
